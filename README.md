@@ -1,5 +1,7 @@
 # Simplify
 
+"start": "concurrently --kill-others-on-fail \"npm run server\" \" npm run client\""
+
 Project Live - [Simplify](https://saidsimplify.herokuapp.com)
 
 ### Installation der Server-Abhängigkeiten
